@@ -3,7 +3,6 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -14,8 +13,12 @@
 <br>
 
 <p align="center">
-  <img alt="Page" src=".github/project.png" width="100%">
-  <img alt="Page" src=".github/storybook.png" width="100%">
+  <img alt="Page" src=".github/project.png" width="35%">
+</p>
+
+
+<p align="center">
+  <img alt="Page" src=".github/storybook.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,6 +32,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Storybook](https://storybook.js.org/)
 - [Tailwindcss](https://tailwindcss.com/)
 - [Figma](https://www.figma.com/)
+- [Radix-Ui](https://www.radix-ui.com/)
 
 
 ## 💻 Projeto
