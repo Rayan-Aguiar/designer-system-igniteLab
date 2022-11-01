@@ -37,7 +37,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Neste projeto eu pude aprender muito sobre design system, CI/CD, acessibilidade e como utilizar componentes do react e documentar com o Storybook.
+Neste projeto eu pude aprender muito sobre design system, CI/CD, acessibilidade e como utilizar componentes do react e documentar com o Storybook. Pude aprender a como criar componentes no Figma e como padronizar atráves desta ferramenta.
 
 
 ## :memo: Licença
